@@ -11,3 +11,4 @@
 -pip install flask-sqlalchemy <br>
 
 ### Working demo video of the app is uploaded in the repository as well. 
+- Working Demo Video can be viewed here: https://youtu.be/S0VUqy9Akzs
